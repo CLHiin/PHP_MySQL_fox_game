@@ -1,0 +1,21 @@
+/fox_game/
+├── config/
+│   └── config.php          # 遊戲數值設定
+├── includes/
+│   ├── db.php              # 資料庫連線模組
+│   └── db_functions.php    # SQL統一管理
+├── css/
+│   └── style.css       # 前端CSS樣式
+├── pages/
+│   ├── login.php           # 登入頁面
+│   ├── logout.php          # 登出頁面
+│   ├── dashboard.php       # 首頁
+│   ├── stage.php           # 關卡選擇
+|   ├── manage_stage.php    # 管理員後台
+│   └── battle.php          # 戰鬥處理
+
+
+本機
+[Session]C:\xampp\tmp\
+http://localhost/phpmyadmin/
+http://localhost/fox_game/pages/dashboard.php

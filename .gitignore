@@ -1,0 +1,14 @@
+# 1. 忽略環境設定檔（這些不能上傳，否則會洩漏密碼）
+.env
+config/config.php
+
+# 2. 忽略系統產生的垃圾檔
+.DS_Store
+Thumbs.db
+
+# 3. 忽略 XAMPP 的暫存與 Session
+/tmp/
+/sessions/
+
+# 4. 忽略資料庫備份檔案
+*.sql
