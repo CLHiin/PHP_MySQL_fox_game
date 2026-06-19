@@ -1,0 +1,2 @@
+# PHP_MySQL_fox_game
+使用PHP連接mySQL製作的網頁小遊戲
