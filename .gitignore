@@ -9,6 +9,3 @@ Thumbs.db
 # 3. 忽略 XAMPP 的暫存與 Session
 /tmp/
 /sessions/
-
-# 4. 忽略資料庫備份檔案
-*.sql
